@@ -1,0 +1,4 @@
+#!/bin/bash
+play abc.mp3 
+#b=ps -ef | grep play | awk '{ printf $2 }'
+
